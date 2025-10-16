@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yujiro Fujii
 
-<!--
-**YujiroFujii10/YujiroFujii10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Science student at McMaster University  
+💡 Interested in algorithms, game development, and accessible interfaces and design  
+🧠 Primarily Working with Python, Java, C, and GDScript
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Python, Java, C, C++, GDScript, Elm, SQL, and Haskell
+- Tools: Git, VS Code, IntelliJ, Godot, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- 🔍 **Shortest Path Algorithms** – Graph algorithms in Python for real-world transit networks  
+- 🎮 **Accessible Card Game** – Two-player game built in Elm with user-centered design
+- 🎮 **Platform Fighter** – Two-player game built in Godot with physics based movement, state machines, hitbox detection/collision, and visual animation
+ 
+## 📫 Contact Me
+📧 yujirof28@gmail.com
