@@ -1,7 +1,7 @@
 # Hi, I'm Yujiro Fujii
 
 🎓 Third-year Computer Science student at McMaster University  
-💡 Interested in algorithms, game development, and accessible interfaces and design  
+💡 Interested in algorithms and game development  
 🧠 Primarily Working with Python, Java, C, and GDScript
 
 ## 🔧 Technologies & Tools
